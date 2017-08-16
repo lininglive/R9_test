@@ -6,7 +6,7 @@ int main()
     scanf("%d",&n);
     printf("Fibonacci Series: %d+%d+",t1,t2);
     count = 2;
-    
+    printf("add for test");
     while(count<n)
     {
         disp=t1+t2;
